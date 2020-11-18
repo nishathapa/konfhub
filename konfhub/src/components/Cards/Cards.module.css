@@ -1,0 +1,28 @@
+.container {
+    margin: 50px 0;
+}
+
+.card {
+    width: 30%;
+    height: 30%;
+}
+
+.img{
+    width: 10px;
+}
+
+/* .header {
+    align-items: center;
+} */
+
+.confheader{
+    text-align: center;
+    font-size: 35px;
+}
+
+/* 
+
+.cardsList1{
+    background: green;
+    align-items: center;
+} */
